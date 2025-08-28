@@ -54,3 +54,6 @@ A skeleton application for Google Cloud Endpoints in Java.
 [3]: https://developers.google.com/appengine/docs/java/endpoints/
 [4]: https://developers.google.com/appengine/docs/java/tools/maven
 [5]: https://localhost:8080/_ah/api/explorer
+
+## Development Notes
+This is a test change to verify PR creation capabilities.
